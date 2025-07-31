@@ -45,5 +45,5 @@ We may update this policy. Check back for updates.
 
 ## 9. Contact Us
 If you have questions, contact:  
-📧 **pauldeogratias@gmail.com**
+📧 **pauldeogratias12@gmail.com**
 
