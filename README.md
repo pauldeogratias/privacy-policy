@@ -47,3 +47,33 @@ We may update this policy. Check back for updates.
 If you have questions, contact:  
 📧 **pauldeogratias12@gmail.com**
 
+
+
+
+
+
+
+## Account Deletion
+
+<a id="account-deletion"></a>
+
+If you wish to delete your account and all associated personal data from [Your App Name] (RahaRide), please follow the steps below:
+
+1. Open the app and navigate to the **Settings** or **Account** section.
+2. Use the **Delete Account** feature to permanently remove your account.
+3. Alternatively, you can contact us directly by email at:  
+   📧 **pauldeogratias@gmail.com**
+
+When your account is deleted, the following data will be removed from our servers:
+
+- Your personal information (name, email, phone number)  
+- Ride history and locations  
+- Communication messages (if any)  
+- Any other data linked to your user ID
+
+**Please note:** Some anonymized or aggregated data may be retained for legal or operational reasons.
+
+---
+
+For any questions or assistance with data deletion, please contact us at the email above.
+
